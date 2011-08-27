@@ -2,7 +2,7 @@
 
 This is first and foremost a mirror of Malte Rosenau's [Mellel2MMD][]
 app and xsl file, which allow one to convert a [Mellel][] document into
-a [Multimarkdown][] document. I used this Rosenau's xsl file extensively
+a [Multimarkdown][] document. I used Rosenau's xsl file extensively
 in the past, but I have not had occasion to use it recently. So I don't
 know if it works with files produced by recent versions of Mellel.
 
