@@ -1,0 +1,4 @@
+CFBundleName = "Mellel2MMD";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Mellel2MMD version 1.0 Copyright 2008 Malte Rosenau";
+NSHumanReadableCopyright = "Copyright 2008 Malte Rosenau.";

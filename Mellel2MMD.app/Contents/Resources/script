@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# You can access your bundled files at the following paths:
+#
+# "$1/Contents/Resources/mellel2mmd.xsl"
+#
+#
+
+new=`echo "$2" | sed s/mellel$/mmd/g`
+
+if [ -f "$2/main.xml" ]
+	then xsltproc -o "$new" "$1/Contents/Resources/mellel2mmd.xsl" "$2/main.xml"
+	else gunzip -c "$2/main.xml.gz" | xsltproc -o "$new" "$1/Contents/Resources/mellel2mmd.xsl" -
+fi
