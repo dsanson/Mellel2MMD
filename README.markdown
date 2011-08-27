@@ -7,9 +7,9 @@ in the past, but I have not had occasion to use it recently. So I don't
 know if it works with files produced by recent versions of Mellel.
 
 I'm putting it up here because I noticed that Rosenau's site is down, at
-least for the moment. I have several old Mellel documents still lurking
-on my hard drive, and I don't want to lose the ability to convert them
-to extended markdown.
+least for the moment. This [direct link][] to the download still works.
+I have several old Mellel documents still lurking on my hard drive, and
+I don't want to lose the ability to convert them to extended markdown.
 
 But I also could not resist adding a couple of things. First, I've added
 an xsl file, mellel2pandoc.xsl, for converting directly to [Pandoc][]'s
@@ -44,4 +44,5 @@ look at the scripts; it should be obvious enough what to do.
   [Mellel2MMD]: http://wwwuser.gwdg.de/~mrosena/
   [Mellel]: http://www.mellel.com/
   [Multimarkdown]: http://fletcherpenney.net/multimarkdown/
+  [direct link]: http://wwwuser.gwdg.de/~mrosena/mellel2mmd.zip
   [Pandoc]: http://johnmacfarlane.net/pandoc/
